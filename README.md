@@ -1,6 +1,6 @@
 ### Hi, I am Hassan Shakil 👋
 
-CS student at NEDUET specializing in Flutter, Firebase, and cross-platform development. Currently diving into Data Science and AI/ML, aiming to build intelligent, real-world applications by merging Flutter expertise with cutting-edge AI technologies..
+CS student at NEDUET specializing in Flutter, Firebase, REST-apis and cross-platform development. Currently diving into Data Science and AI/ML, aiming to build intelligent, real-world applications by merging Flutter expertise with cutting-edge AI technologies..
 
 Let's connect and discuss how I can help bring your mobile app vision to life!
 
