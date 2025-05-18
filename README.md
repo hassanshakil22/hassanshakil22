@@ -50,9 +50,19 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 
 ### GitHub Stats:
 
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanshakil22&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanshakil22&theme=radical" />
+    </td>
+  </tr>
+</table>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanshakil22&layout=compact&theme=radical)
 
-[![Hassan Shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanshakil22&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
