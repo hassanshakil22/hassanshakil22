@@ -26,6 +26,13 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
+<p align="left">
+<a href="https://wa.me/923059167616" target="blank">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr8vS7DKHqSKNk4NIOHXoaheWgj6EDZuIDmg&s" alt="Whatsapp" height="30" width="40" />
+</a>
+</p>
+
+
 
 ---
 
