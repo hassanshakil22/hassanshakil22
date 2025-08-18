@@ -22,14 +22,16 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<span>
 <a href="https://www.linkedin.com/in/hassanshakil22" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
 <p align="left">
 <a href="https://wa.me/923059167616" target="blank">
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr8vS7DKHqSKNk4NIOHXoaheWgj6EDZuIDmg&s" alt="Whatsapp" height="30" width="40" />
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvMQlZXD2RUfJ1BeNmMjcWBSNF-axCYICsFQ&s" alt="Whatsapp" height="30" width="40" />
 </a>
+</span>  
 </p>
 
 
@@ -61,9 +63,6 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 35px;" />
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 35px;" />
 </a>
 </p>
 
