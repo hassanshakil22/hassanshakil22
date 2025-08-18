@@ -13,7 +13,7 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 
 
 <p align="center">
-  <img src="https://github.com/hassanshakil22/applications-media-assets/blob/main/guard-management-tut.gif?raw=true" alt="App Demo" width="800"/>
+  <img src="https://github.com/hassanshakil22/applications-media-assets/blob/main/guard-management-tut.gif?raw=true" alt="App Demo" width="1000"/>
 </p>
 
 ---
