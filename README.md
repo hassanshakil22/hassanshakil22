@@ -6,8 +6,11 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 
 
 <h3 align="left">My Work:</h3>
+
 ---
-# 🚀 Guard Management App
+
+# Guard Management App
+
 
 <p align="center">
   <img src="https://github.com/hassanshakil22/applications-media-assets/blob/main/guard-management-tut.gif?raw=true" alt="App Demo" width="800"/>
