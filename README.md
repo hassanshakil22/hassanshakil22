@@ -39,16 +39,12 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<span>
 <a href="https://www.linkedin.com/in/hassanshakil22" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-</p>
-<p align="left">
 <a href="https://wa.me/923059167616" target="blank">
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvMQlZXD2RUfJ1BeNmMjcWBSNF-axCYICsFQ&s" alt="Whatsapp" height="30" width="40" />
 </a>
-</span>  
 </p>
 
 
