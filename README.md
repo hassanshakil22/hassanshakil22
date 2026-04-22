@@ -7,17 +7,16 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 
 <h3 align="left">My Work:</h3>
 
----
-
-
-# Taste Food App<p align="center">
-
 <p align="center">
   <video src="https://res.cloudinary.com/dboavsc2p/video/upload/taste-app_zirumd.mp4" width="1000" autoplay loop muted playsinline>
     Your browser does not support the video tag.
   </video>
 </p>
 
+---
+
+
+# Taste Food App<p align="center">
 
   <a href="https://streamable.com/j2xp4i" target="_blank">
     <img src="https://github.com/hassanshakil22/applications-media-assets/blob/main/taste-food.jpeg?raw=true" alt="Watch Demo Video" width="1000"/>
