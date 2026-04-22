@@ -10,9 +10,12 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 ---
 
 
-# Taste Food App
-<p align="center">
-  <img src="https://github.com/hassanshakil22/applications-media-assets/blob/main/taste-app.gif?raw=true" alt="App Demo" width="1000"/>
+# Taste Food App<p align="center">
+  <a href="https://streamable.com/j2xp4i" target="_blank">
+    <img src="https://github.com/hassanshakil22/applications-media-assets/blob/main/taste-app.gif?raw=true" alt="Watch Demo Video" width="1000"/>
+  </a>
+  <br>
+  <i>🎬 Click the image above to watch the full demo video on Streamable</i>
 </p>
 
 ---
