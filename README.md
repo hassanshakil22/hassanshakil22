@@ -14,11 +14,11 @@ Let's connect and discuss how I can help bring your mobile app vision to life!
 # Taste Food App<p align="center">
 
 <p align="center">
-  <a href="https://res.cloudinary.com/dboavsc2p/video/upload/v1776894923/taste-app_zirumd.mp4" target="_blank">
+  <a href="https://www.youtube.com/watch?v=ikkAbUN4Gkw" target="_blank">
     <img src="https://github.com/hassanshakil22/applications-media-assets/blob/main/taste-food.jpeg?raw=true" alt="Watch Demo Video" width="1000"/>
   </a>
   <br>
-  <i>🎬 Click the image above to watch the full demo video</i>
+  <i>🎬 Click the image above to watch the demo on YouTube</i>
 </p>
 
 ---
